@@ -1,0 +1,5 @@
+== 1 CreateStudents: migrating ================================================
+-- create_table(:students, {})
+   -> 0.0010s
+== 1 CreateStudents: migrated (0.0011s) =======================================
+
